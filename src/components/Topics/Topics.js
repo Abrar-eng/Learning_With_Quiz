@@ -11,11 +11,11 @@ const Topics = ({ cart }) => {
             <div>
                 <img src={logo} alt="" />
                 <h3>{name} </h3>
-                <p className='text-primary'>Quiz : {total} </p>
+                <p className='text-success'>Quiz : {total} </p>
             </div>
             <div className='btn-icon ps-2'>
                 <Link to={`/home/${id}`}>
-                    <Button className='px-5 py-2 fs-4 btn-cart bg-color text-white' variant=""> Start Practice  </Button>{' '}
+                    <Button className='px-5 py-2 fs-4 btn-cart bg-success text-white' variant=""> Start Practice  </Button>{' '}
                 </Link>
 
             </div>

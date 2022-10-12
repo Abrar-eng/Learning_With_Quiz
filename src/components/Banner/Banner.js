@@ -13,7 +13,7 @@ const Banner = () => {
                     <h1 className=''>
                         You Have to Learning website with JS, React JS and use Github.</h1>
                     <p className='fs-5 my-4'>We need to learn web development for our good career</p>
-                    <Button className='px-5 py-2 fs-4 bg-color text-white' variant="">Learner Start Here</Button>{' '}
+                    <Button className='px-5 py-2 fs-4 bg-success text-white' variant="">Learn from here</Button>{' '}
                 </div>
             </div>
         </div>
