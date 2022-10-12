@@ -26,7 +26,7 @@ const Blog = () => {
             <div className='my-5 blog-3'>
                 <h1 className='span-color'>3. What is Use Ref?</h1>
                 <p className='my-5 fs-5'>In the typical React dataflow, props are the only way that parent components interact with their children. To modify a child, you re-render it with new props. However, there are a few cases where you need to imperatively modify a child outside of the typical dataflow. The child to be modified could be an instance of a React component, or it could be a DOM element. For both of these cases, React provides an escape hatch.There are a few good use cases for refs:
-                The useRef Hook allows you to persist values between renders. It can be used to store a mutable value that does not cause a re-render when updated. It can be used to access a DOM element directly.
+                The useRef Hook allows you to persist values between renders. It can be used to store a mutable value that does not cause a re-render when updated. It can be used to access a DOM element directly....
                 </p>
                 <Button className='px-5 py-2 fs-4 bg-success text-white' variant="">Read More....</Button>{' '}
             </div>
