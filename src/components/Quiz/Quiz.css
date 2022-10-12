@@ -1,7 +1,7 @@
 .quiz-container {
     text-align: center;
     width: 300px;
-    border: 1px solid lightgray;
+    border: 1px solid rgb(167, 213, 237);
     margin-bottom: 30px;
     border-radius: 10px;
     padding: 40px 30px;
@@ -28,11 +28,11 @@
 }
 
 .icon {
-    color: blue;
+    color: rgb(255, 0, 170);
 }
 
 .option-p {
-    background: linear-gradient(135deg, rgb(91, 171, 220) 30%, rgb(236, 60, 210));
+    background: linear-gradient(135deg, rgb(250, 166, 9) 30%, rgb(48, 137, 246));
     /* background-color: rgb(80, 119, 228); */
     color: white;
     font-size: 20px;

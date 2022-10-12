@@ -2,11 +2,11 @@
     width: 250px;
     height: 150px;
     border-radius: 10px;
-    background-color: lightgrey;
+    background-color: rgb(231, 209, 241);
 }
 
 .cart {
-    border: 1px solid lightgray;
+    border: 1px solid rgb(248, 197, 197);
     padding-top: 6px;
     width: 260px;
     height: 310px;
